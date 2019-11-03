@@ -1,0 +1,53 @@
+HOME: Kolkata
+
+TRIP DETAILS:
+Starts on: 25-10-2019
+Ends on: 30-10-2019
+Days: 5
+
+HOTEL DETAILS:
+Name: Snow Valley Resort
+Type: Resort
+
+LOCATION DETAILS: 
+Adress: Snow View Area, The Mall
+Locality: The Mall
+Area: The Mall
+Province: Dalhousie
+City: Dalhousie
+State: Himachal Pradesh
+
+ABOUT HOTEL:
+Description: The standard check-in time is 01:00 PM and the standard check-out time is 11:00 AM. Early check-in or late check-out is strictly subjected to availability and may be chargeable by the hotel. Any early check-in or late check-out request must be directed and reconfirmed with hotel directly Hotel may charge compulsory gala dinner supplement on Christmas / New Year's eve or other festive periods. Any such supplements need to be paid directly at the hotel.
+Star Rating: 3
+
+FACILITIES:
++---------------------------+------------------------------+--------------------------------------+-----------------------------+- 
+| Bar / Lounge              | Doctor on Call               | Health Club / Gym Facility Available | Internet Access - Surcharge | 
++---------------------------+------------------------------+--------------------------------------+-----------------------------+- 
+| Laundry Service Available | Parking Facilities Available | Front Desk                           | Multi Cuisine Restaurant    | 
++---------------------------+------------------------------+--------------------------------------+-----------------------------+- 
+| Local Tour / Travel Desk  | Major Credit Cards Accepted  | 24 Hour Front Desk                   | Luggage Storage             | 
++---------------------------+------------------------------+--------------------------------------+-----------------------------+- 
+| Conference Facility       | Car Rental                   | Campfire / Bon Fire                  | Internet Access Free        | 
++---------------------------+------------------------------+--------------------------------------+-----------------------------+- 
+| Room Service (24 Hours)   | Room Service                 | Internet Access                      | Gym/Spa                     | 
++---------------------------+------------------------------+--------------------------------------+-----------------------------+- 
+
+POINTS OF INTEREST:
++---------------+--------------------+----------------------------+---------------------------------------------------------+---------------+- 
+| Subhash Baoli | Pathan Kot Airport | Tundah Wild Life Sanctuary | Kalatope Wild Life Sanctuary/ Kugti Wild Life Sanctuary | Bakrota Hills | 
++---------------+--------------------+----------------------------+---------------------------------------------------------+---------------+- 
+| The Mall      | Panjpulla          | Pathan Kot Railway Station | Bus Stand                                               | The Round     | 
++---------------+--------------------+----------------------------+---------------------------------------------------------+---------------+- 
+| Dainkund      | Khaji Nag Temple   | Dainkund Peak              | Rang Mahal                                              | Panch Pulla   | 
++---------------+--------------------+----------------------------+---------------------------------------------------------+---------------+- 
+
+COSTING:
++------------------------+-----------------+-----------+-------------+---------------+---------+- 
+| Hotel Price(per night) | Net Hotel Price | Travel by | Travel Cost | Miscellaneous | Total   | 
++------------------------+-----------------+-----------+-------------+---------------+---------+- 
+| 1500                   | 7500            | Train     | 17336.0     | 8560.0        | 33396.0 | 
+| 1500                   | 7500            | Flight    | 75340.0     | 8560.0        | 91400.0 | 
++------------------------+-----------------+-----------+-------------+---------------+---------+- 
+
